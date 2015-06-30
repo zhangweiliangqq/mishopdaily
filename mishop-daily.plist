@@ -1,0 +1,30 @@
+<dict>
+        <key>items</key>
+        <array>
+                <dict>
+                        <key>assets</key>
+                        <array>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>software-package</string>
+                                        <key>url</key>
+                                        <string>http://ios.update.n.miliao.com/daily/mishop/ipa/MiShop.ipa</string>
+                                </dict>
+                        </array>
+                        <key>metadata</key>
+                        <dict>
+                                <key>bundle-identifier</key>
+                                <string>com.xiaomi.mishop.dailybuild</string>
+                                <key>kind</key>
+                                <string>software</string>
+                                <key>title</key>
+                                <string>MiShopDaily</string>
+                                <key>version</key>
+                                <string>1.0.0</string>
+                                <key>description</key>
+                                <string></string>
+                        </dict>
+        </dict>
+        </array>
+</dict>
+</plist>
